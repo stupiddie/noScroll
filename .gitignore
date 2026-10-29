@@ -13,3 +13,5 @@ keystore.properties
 *.jks
 *.keystore
 *.apk
+
+/超级超级重要/
